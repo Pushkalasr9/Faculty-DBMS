@@ -3,7 +3,8 @@
 
 **Project Description:** <br>
 The Faculty Database Management System is a web-based application designed to provide the faculty details of both existing and joining in C.Tech department at SRMIST University. <br>
-
+ <br>
+  <br>
 _**BUSINESS CASE TEMPLATE**_
 
 **The Project** <br>
@@ -25,9 +26,9 @@ _**BUSINESS CASE TEMPLATE**_
 --> The understanding of server or database issues. <br>
 --> The flexibility of the software shall be kept in mind. <br>
 
-**Benefits**
---> The application stores details of all faculty vitae in a searchable database to be reviewed by authorized personnel and matched to a suitable position.
---> Faculty details can be extracted in an excel format.
---> Paperless storage of faculty data.
---> Helps to hire new faculty members.
---> High data security and confidentiality.
+**Benefits** <br>
+--> The application stores details of all faculty vitae in a searchable database to be reviewed by authorized personnel and matched to a suitable position. <br>
+--> Faculty details can be extracted in an excel format. <br>
+--> Paperless storage of faculty data. <br>
+--> Helps to hire new faculty members. <br>
+--> High data security and confidentiality. <br>
