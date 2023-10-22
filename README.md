@@ -1,4 +1,4 @@
-#SEPM Mini Project
+<!-- SEPM Mini project-->
 **FACULTY DATABASE MANAGEMENET SYSTEM FOR C.TECH**
 
 **Project Description:** <br>
