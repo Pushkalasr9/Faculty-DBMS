@@ -1,5 +1,5 @@
 <!-- SEPM Mini project-->
-**FACULTY DATABASE MANAGEMENET SYSTEM FOR C.TECH**
+**FACULTY DATABASE MANAGEMENT SYSTEM FOR C.TECH**
 
 **Project Description:** <br>
 The Faculty Database Management System is a web-based application designed to provide the faculty details of both existing and joining in C.Tech department at SRMIST University. <br>
